@@ -21,7 +21,7 @@ Bachelor of Engineering. Sep. 2015 - Jun.2019, [School of the Gifted Young](http
 <b>Robust and Accurate 3D Self-portraits in Seconds</b><br>
 <b>Zhe Li</b>*, Tao Yu*, Zerong Zheng, Yebin Liu<br>
 <i>IEEE Transactions on Pattern Recognition and Intelligence Machine(<b>T-PAMI</b>), 2021</i><br>
-[[Paper]](https://ieeexplore.ieee.org/document/9540284/)  [[Dataset](Coming soon)]<br>
+[[Paper]](https://ieeexplore.ieee.org/document/9540284/)  [Dataset(Coming soon)]<br>
 
 <img align="left" height="120" width="215" src="../images/iccv21_lwtotalcap.jpg" style="padding-right:20px; padding-top:20px"/>
 <b>Lightweight Multi-person Total Motion Capture Using Sparse Multi-view Cameras</b><br>
