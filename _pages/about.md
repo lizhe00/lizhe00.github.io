@@ -25,7 +25,6 @@ Bachelor of Engineering. Sep. 2015 - Jun.2019, [School of the Gifted Young](http
 
 <b>Robust and Accurate 3D Self-portraits in Seconds</b><br>
 <b>Zhe Li</b>\*, Tao Yu\*, Zerong Zheng, Yebin Liu<br>
-
 <i>IEEE Transactions on Pattern Recognition and Intelligence Machine (<b>T-PAMI</b>), 2021</i><br>
 [[Paper]](https://ieeexplore.ieee.org/document/9540284/) [Dataset(Coming soon)]<br>
 
@@ -35,7 +34,6 @@ Bachelor of Engineering. Sep. 2015 - Jun.2019, [School of the Gifted Young](http
 
 <b>Lightweight Multi-person Total Motion Capture Using Sparse Multi-view Cameras</b><br>
 Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu\*, Yebin Liu\*<br>
-
 <i>IEEE International Conference on Computer Vision (<b>ICCV</b>), 2021</i><br>
 [[Projectpage]](http://www.liuyebin.com/lwtotalcap/lwtotalcap.html)  [[Paper]](https://arxiv.org/pdf/2108.10378.pdf)  [[Supp Video]](http://www.liuyebin.com/dmc/assets/supp.mp4)<br>
 
@@ -45,7 +43,6 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu\*, Yebin Liu\*<br>
 
 <b>POSEFusion: Pose-guided Selective Fusion for Single-view Human Volumetric Capture</b><br>
 <b>Zhe Li</b>, Tao Yu, Zerong Zheng, Kaiwen Guo, Yebin Liu<br>
-
 <i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2021</i>  <font color="#dd0000">(Oral presentation)</font><br>
 [[Projectpage]](http://www.liuyebin.com/posefusion/posefusion.html)  [[Paper]](https://arxiv.org/pdf/2103.15331.pdf)  [[Oral Talk]](https://youtu.be/34jrPLkiPrw)  [[Supp Video]](http://www.liuyebin.com/posefusion/assets/supp_video.mp4)<br>
 
@@ -55,7 +52,6 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu\*, Yebin Liu\*<br>
 
 <b>Robust 3D Self-portraits in Seconds</b><br>
 <b>Zhe Li</b>, Tao Yu, Chuanyu Pan, Zerong Zheng, Yebin Liu<br>
-
 <i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2020</i>  <font color="#dd0000">(Oral presentation)</font><br>
 [[Projectpage]](http://www.liuyebin.com/portrait/portrait.html)  [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Robust_3D_Self-Portraits_in_Seconds_CVPR_2020_paper.pdf)  [[Oral Talk]](https://youtu.be/nx-pzk12hLY)  [[Supp Video]](http://www.liuyebin.com/portrait/assets/portrait.mp4)<br>
 
