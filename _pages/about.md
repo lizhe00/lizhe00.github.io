@@ -17,11 +17,15 @@ Bachelor of Engineering. Sep. 2015 - Jun.2019, [School of the Gifted Young](http
 
 ## Publication
 
+---
+
 <img align="left" height="120" width="215" src="../images/tpami21_portrait.jpg" style="padding-right:20px; padding-top:20px"/>
 <b>Robust and Accurate 3D Self-portraits in Seconds</b><br>
 <b>Zhe Li</b>*, Tao Yu*, Zerong Zheng, Yebin Liu<br>
 <i>IEEE Transactions on Pattern Recognition and Intelligence Machine(<b>T-PAMI</b>), 2021</i><br>
 [[Paper]](https://ieeexplore.ieee.org/document/9540284/)  [Dataset(Coming soon)]<br>
+
+---
 
 <img align="left" height="120" width="215" src="../images/iccv21_lwtotalcap.jpg" style="padding-right:20px; padding-top:20px"/>
 <b>Lightweight Multi-person Total Motion Capture Using Sparse Multi-view Cameras</b><br>
@@ -29,12 +33,15 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu*, Yebin Liu*<br>
 <i>IEEE International Conference on Computer Vision(<b>ICCV</b>), 2021</i><br>
 [[Projectpage]](http://www.liuyebin.com/lwtotalcap/lwtotalcap.html)  [[Paper]](https://arxiv.org/pdf/2108.10378.pdf)  [[Supp Video]](http://www.liuyebin.com/dmc/assets/supp.mp4)<br>
 
+---
+
 <img align="left" height="120" width="215" src="../images/cvpr21_posefusion.jpg" style="padding-right:20px; padding-top:20px"/>
 <b>POSEFusion: Pose-guided Selective Fusion for Single-view Human Volumetric Capture</b><br>
 <b>Zhe Li</b>, Tao Yu, Zerong Zheng, Kaiwen Guo, Yebin Liu<br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2021</i>  <font color="#dd0000">(Oral presentation)</font><br>
 [[Projectpage]](http://www.liuyebin.com/posefusion/posefusion.html)  [[Paper]](https://arxiv.org/pdf/2103.15331.pdf)  [[Supp Video]](http://www.liuyebin.com/posefusion/assets/supp_video.mp4)<br>
 
+---
 
 <img align="left" height="120" width="215" src="../images/cvpr20_portrait.jpg" style="padding-right:20px; padding-top:20px"/>
 <b>Robust 3D Self-portraits in Seconds</b><br>
