@@ -25,7 +25,7 @@ Bachelor of Engineering. Sep. 2015 - Jun.2019, [School of the Gifted Young](http
 
 <b>Robust and Accurate 3D Self-portraits in Seconds</b><br>
 <b>Zhe Li</b>\*, Tao Yu\*, Zerong Zheng, Yebin Liu<br>
-<i>IEEE Transactions on Pattern Recognition and Intelligence Machine (<b>T-PAMI</b>), 2021</i><br>
+<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>T-PAMI</b>), 2021</i><br>
 [[Paper]](https://ieeexplore.ieee.org/document/9540284/) [Dataset(Coming soon)]<br>
 
 ---
