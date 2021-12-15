@@ -35,7 +35,7 @@ Bachelor of Engineering. Sep. 2015 - Jun.2019, [School of the Gifted Young](http
 <b>Lightweight Multi-person Total Motion Capture Using Sparse Multi-view Cameras</b><br>
 Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu\*, Yebin Liu\*<br>
 <i>IEEE International Conference on Computer Vision (<b>ICCV</b>), 2021</i><br>
-[[Projectpage]](http://www.liuyebin.com/lwtotalcap/lwtotalcap.html)  [[Paper]](https://arxiv.org/pdf/2108.10378.pdf)  [[Supp Video]](http://www.liuyebin.com/dmc/assets/supp.mp4)<br>
+[[Projectpage]](http://www.liuyebin.com/lwtotalcap/lwtotalcap.html)  [[Paper]](https://arxiv.org/pdf/2108.10378.pdf)  [[Supp Video]](http://www.liuyebin.com/lwtotalcap/assets/video.mp4)<br>
 
 ---
 
