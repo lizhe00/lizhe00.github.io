@@ -55,3 +55,6 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu\*, Yebin Liu\*<br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2020</i>  <font color="#dd0000">(Oral presentation)</font><br>
 [[Projectpage]](http://www.liuyebin.com/portrait/portrait.html)  [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Robust_3D_Self-Portraits_in_Seconds_CVPR_2020_paper.pdf)  [[Oral Talk]](https://youtu.be/nx-pzk12hLY)  [[Supp Video]](http://www.liuyebin.com/portrait/assets/portrait.mp4)<br>
 
+## Award
+
++ National Scholarship, Ministry of Education of China, 2021
