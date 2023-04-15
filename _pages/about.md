@@ -28,7 +28,7 @@ Bachelor of Engineering. Sep. 2015 - Jun.2019, [School of the Gifted Young](http
 <b>AvatarCap: Animatable Avatar Conditioned Monocular Human Volumetric Capture</b><br>
 <b>Zhe Li</b>, Zerong Zheng, Hongwen Zhang, Chaonan Ji, Yebin Liu<br>
 <i>European Conference on Computer Vision (<b>ECCV</b>), 2022</i><br>
-[[<i class="fa-solid fa-globe"></i>Projectpage]](http://www.liuyebin.com/avatarcap/avatarcap.html) [[<i class="fas fa-fw fa-file-pdf"></i>Paper]](https://arxiv.org/pdf/2207.02031.pdf) [[<i class="fa-brands fa-github"></i>Code]](https://github.com/lizhe00/AvatarCap)<br>
+[[<i class="fas fa-fw fa-globe"></i>Projectpage]](http://www.liuyebin.com/avatarcap/avatarcap.html) [[<i class="fas fa-fw fa-file-pdf"></i>Paper]](https://arxiv.org/pdf/2207.02031.pdf) [[<i class="fas fa-fw fa-github"></i>Code]](https://github.com/lizhe00/AvatarCap)<br>
 
 ---
 
