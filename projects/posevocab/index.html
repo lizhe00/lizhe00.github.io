@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PoseVocab: Learning Joint-structured Pose Embeddings for Human Avatar Modeling</title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+  </head>
+
+  <!-- cover -->
+  <section>
+    <div class="jumbotron text-center mt-0">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <h2>PoseVocab: Learning Joint-structured Pose Embeddings<br> for Human Avatar Modeling</h2>
+            <h4 style="color:#5a6268;">SIGGRAPH 2023</h4>
+            <hr>
+            <h6> <a href="https://lizhe00.github.io/" target="_blank">Zhe Li</a>, 
+                <a href="https://zhengzerong.github.io/" target="_blank">Zerong Zheng</a>, 
+                Yuxiao Liu, 
+                Boyao Zhou,
+                <a href="https://liuyebin.com" target="_blank">Yebin Liu</a></h6>
+            <p>Tsinghua University</p>
+            <!-- <p> <a class="btn btn-secondary btn-lg" href="" role="button">Paper</a> 
+                <a class="btn btn-secondary btn-lg" href="" role="button">Code</a> 
+                <a class="btn btn-secondary btn-lg" href="" role="button">Data</a> </p> -->
+
+            <div class="row justify-content-center">
+              <div class="column">
+                  <p class="mb-5"><a class="btn btn-large btn-light" href="" role="button"  target="_blank">
+                    <i class="fa fa-file"></i> Paper</a> </p>
+              </div>
+              <div class="column">
+                <p class="mb-5"><a class="btn btn-large btn-light" href="https://youtu.be/L-kg74A6yNc" role="button"  target="_blank">
+                  <i class="fa fa-youtube"></i> Video</a> </p>
+            </div>
+              <div class="column">
+                  <p class="mb-5"><a class="btn btn-large btn-light" href="https://github.com/lizhe00/posevocab" role="button"  target="_blank">
+                    <i class="fa fa-github"></i> Code</a> </p>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- abstract -->
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h3>Abstract</h3>
+            <hr style="margin-top:0px">
+            <h6 style="color:#8899a5"> We propose PoseVocab, a novel pose encoding method for high-fidelity human avatar modeling.</h6>
+            <video width="90%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+                  <source src="assets/teaser.mp4" type="video/mp4">
+              </video>
+              <!-- <br><br> -->
+          <p class="text-left"> Creating pose-driven human avatars is about modeling the mapping from the low-frequency driving pose to high-frequency dynamic human appearances, so an effective pose encoding method that can encode high-fidelity human details is essential to human avatar modeling.
+            To this end, we present PoseVocab, a novel pose encoding method that encourages the network to discover the optimal pose embeddings for learning the dynamic human appearance.
+            Given multi-view RGB videos of a character, PoseVocab constructs key poses and latent embeddings based on the training poses.
+            To achieve pose generalization and temporal consistency, we sample key rotations in so(3) of each joint rather than the global pose vectors, and assign a pose embedding to each sampled key rotation.
+            These joint-structured pose embeddings not only encode the dynamic appearances under different key poses, but also factorize the global pose embedding into joint-structured ones to better learn the appearance variation related to the motion of each joint.
+            To improve the representation ability of the pose embedding while maintaining memory efficiency, we introduce feature lines, a compact yet effective 3D representation, to model more fine-grained details of human appearances.
+            Furthermore, given a query pose and a spatial position, a hierarchical query strategy is introduced to interpolate pose embeddings and acquire the conditional pose feature for dynamic human synthesis.
+            Overall, PoseVocab effectively encodes the dynamic details of human appearance and enables realistic and generalized animation under novel poses.
+            Experiments show that our method outperforms other state-of-the-art baselines both qualitatively and quantitatively in terms of synthesis quality.
+            </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <br>
+
+  <section>
+    <div class="container">
+      <div class="row">
+          <div class="col-12 text-center">
+            <h3>Method</h3>
+            <img src="assets/overview.jpg" width="1100" alt=""/>
+            <p>&nbsp;</p>
+            <p>
+              Fig 1.&nbsp; <b>Overview of the representation of PoseVocab.</b> PoseVocab is constructed based on the training poses by sampling
+              the key rotations in 𝑠𝑜 (3) of each joint and assigning a pose embedding for each key rotation. These joint-structured pose
+              embeddings encode the dynamic appearance of the character under various poses. Given a query pose and 3D position, we
+              hierarchically interpolate pose embeddings in joint, key-rotation and spatial levels to acquire the conditional pose feature,
+              which is fed into an MLP to decode the radiance field, eventually synthesizing the high-fidelity human avatar via volumerendering.
+            </p>
+            <p>&nbsp;</p>
+          </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12 text-center">
+              <h3>Results</h3>
+              <img src="assets/results.jpg" width="1100" alt=""/>
+              <p>&nbsp;</p>
+              <p>
+                Fig 1.&nbsp; <b>Overview of the representation of PoseVocab.</b> PoseVocab is constructed based on the training poses by sampling
+                the key rotations in 𝑠𝑜 (3) of each joint and assigning a pose embedding for each key rotation. These joint-structured pose
+                embeddings encode the dynamic appearance of the character under various poses. Given a query pose and 3D position, we
+                hierarchically interpolate pose embeddings in joint, key-rotation and spatial levels to acquire the conditional pose feature,
+                which is fed into an MLP to decode the radiance field, eventually synthesizing the high-fidelity human avatar via volumerendering.
+              </p>
+              <p>&nbsp;</p>
+            </div>
+          </div>
+
+        <div class="row">
+            <div class="col-12 text-center">
+              <h3>Comparison</h3>
+              <img src="assets/comparison.jpg" width="900" alt=""/>
+              <p>&nbsp;</p>
+              <p>
+                Fig 1.&nbsp; <b>Overview of the representation of PoseVocab.</b> PoseVocab is constructed based on the training poses by sampling
+                the key rotations in 𝑠𝑜 (3) of each joint and assigning a pose embedding for each key rotation. These joint-structured pose
+                embeddings encode the dynamic appearance of the character under various poses. Given a query pose and 3D position, we
+                hierarchically interpolate pose embeddings in joint, key-rotation and spatial levels to acquire the conditional pose feature,
+                which is fed into an MLP to decode the radiance field, eventually synthesizing the high-fidelity human avatar via volumerendering.
+              </p>
+              <p>&nbsp;</p>
+            </div>
+          </div>
+      </div>
+  </section>
+
+  <!-- overview video -->
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+            <h3>Demo Video</h3>
+            <hr style="margin-top:0px">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe style="clip-path: inset(1px 1px)" width="100%" height="100%" src="https://www.youtube.com/embed/L-kg74A6yNc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+            </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <br>
+
+  <!-- citing -->
+  <div class="container">
+    <div class="row ">
+      <div class="col-12">
+          <h3>Citation</h3>
+          <hr style="margin-top:0px">
+              <pre style="background-color: #e9eeef;padding: 1.25em 1.5em">
+<code>@inproceedings{li2023posevocab,
+  title={PoseVocab: Learning Joint-structured Pose Embeddings for Human Avatar Modeling},
+  author={Li, Zhe and Zheng, Zerong and Liu, Yuxiao and Zhou, Boyao and Liu, Yebin},
+  booktitle={SIGGRAPH},
+  year={2023}
+}</code></pre>
+          <hr>
+      </div>
+    </div>
+  </div>
+
+  <footer class="text-center" style="margin-bottom:10px">
+      Thanks to <a href="https://lioryariv.github.io/" target="_blank">Lior Yariv</a> for the website template.
+  </footer>
+
+</body>
+</html>
