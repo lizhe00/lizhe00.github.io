@@ -8,18 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Zhe Li. I am a 4th year Ph.D. student in Department of Automation, Tsinghua University, supervised by Prof. [Yebin Liu](http://www.liuyebin.com/). My research focuses on 3D computer vison, specifically animatable avatars, human reconstruction and volumetric capture.
-
-I expect to graduate in June 2024.
+Hi, this is Zhe Li. I am a 4th-year (2019~) Ph.D. student in Department of Automation, Tsinghua University, supervised by Prof. [Yebin Liu](http://www.liuyebin.com/). My research focuses on 3D computer vison, specifically animatable avatars, human reconstruction and volumetric capture.
 
 ## Background
 
-Ph.D. Student. Sep. 2019 - Present, [Department of Automation](http://www.au.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm).<br>
-Bachelor of Engineering. Sep. 2015 - Jun.2019, [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](http://en.ustc.edu.cn/).
+Ph.D. Student. Sep. 2019 - Jun. 2024 (Expected), [Department of Automation](http://www.au.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm).<br>
+Bachelor of Engineering. Sep. 2015 - Jun. 2019, [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](http://en.ustc.edu.cn/).
 
 ## Publication
 
 \* indicates equal contribution.
+
+---
+
+<img align="left" width="215" height="110" src="../images/sig23_posevocab.jpg" style="padding-right:20px; padding-top:20px"/>
+
+<b>PoseVocab: Learning Joint-structured Pose Embeddings for Human Avatar Modeling</b><br>
+<b>Zhe Li</b>, Zerong Zheng, Yuxiao Liu, Boyao Zhou, Yebin Liu<br>
+<i>SIGGRAPH Conference Proceedings, 2023</i><br>
+[<i class="fas fa-fw fa-globe"></i>Projectpage](https://lizhe00.github.io/projects/posevocab) /
+[<i class="fas fa-fw fa-file-pdf"></i>Paper]() /
+[<i class="fas fa-fw fa-video"></i>Video](https://youtu.be/L-kg74A6yNc) /
+[<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/lizhe00/PoseVocab)<br>
 
 ---
 
