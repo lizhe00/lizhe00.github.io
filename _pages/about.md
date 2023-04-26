@@ -27,7 +27,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019, [School of the Gifted Young](htt
 <b>Zhe Li</b>, Zerong Zheng, Yuxiao Liu, Boyao Zhou, Yebin Liu<br>
 <i><b>SIGGRAPH</b> Conference Proceedings, 2023</i><br>
 [<i class="fas fa-fw fa-globe"></i>Projectpage](https://lizhe00.github.io/projects/posevocab) /
-[<i class="fas fa-fw fa-file-pdf"></i>Paper]() /
+[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2304.13006.pdf) /
 [<i class="fas fa-fw fa-video"></i>Video](https://youtu.be/L-kg74A6yNc) /
 [<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/lizhe00/PoseVocab)<br>
 
