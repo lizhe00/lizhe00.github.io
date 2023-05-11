@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Zhe Li. I am a 4th-year (2019~) Ph.D. student in Department of Automation, Tsinghua University, supervised by Prof. [Yebin Liu](http://www.liuyebin.com/). My research focuses on 3D computer vison, specifically animatable avatars, human reconstruction and volumetric capture.
+Hi, this is Zhe Li. I am a 4th-year (2019~) Ph.D. student in Department of Automation, Tsinghua University, supervised by Prof. [Yebin Liu](http://www.liuyebin.com/). My research focuses on 3D computer vison, specifically animatable avatar modeling, human reconstruction and volumetric capture.
+
+## Contact
+E-mail: liz19 AT mails.tsinghua.edu.cn<br>
+WeChat: nexus_unite
 
 ## Background
 
