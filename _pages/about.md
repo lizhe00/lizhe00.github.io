@@ -12,8 +12,8 @@ Hi, this is Zhe Li. I am a 4th-year (2019~) Ph.D. student in Department of Autom
 
 I am currently on the 2023-2024 job market.<br>
 我正在寻找2024年工作岗位，欢迎联系。<br>
-[[Resume]](./files/Zhe_Li_Resume.pdf)<br>
 [[中文简历]](./files/李哲_简历.pdf)<br>
+[[Resume]](./files/Zhe_Li_Resume.pdf)<br>
 WeChat: nexus_unite<br>
 E-mail: liz19 AT mails.tsinghua.edu.cn
 
@@ -23,14 +23,16 @@ E-mail: liz19 AT mails.tsinghua.edu.cn
 <img align="left" width="80" height="80" src="../images/tsinghua.png" style="padding-right:20px; padding-top:20px"/>
 
 Ph.D. Student. Sep. 2019 - Jun. 2024 (Expected)<br>
-[Department of Automation](http://www.au.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm).<br>
+[Department of Automation](http://www.au.tsinghua.edu.cn/)<br>
+[Tsinghua University](https://www.tsinghua.edu.cn/en/index.html)<br>
 
 ---
 
 <img align="left" width="80" height="80" src="../images/ustc.png" style="padding-right:20px; padding-top:20px"/>
 
 Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
-[**Class of the Gifted Young (少年班)**](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](http://en.ustc.edu.cn/).<br>
+[**Class of the Gifted Young (少年班)**](http://en.scgy.ustc.edu.cn/)<br>
+[University of Science and Technology of China](http://en.ustc.edu.cn/)<br>
 
 
 ## Publication
