@@ -25,16 +25,15 @@ E-mail: liz19 AT mails.tsinghua.edu.cn
 Ph.D. Student. Sep. 2019 - Jun. 2024 (Expected)<br>
 [Department of Automation](http://www.au.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm).<br>
 
+---
+
 <img align="left" width="80" height="80" src="../images/ustc.png" style="padding-right:20px; padding-top:20px"/>
 
 Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
-[**Class of the Gifted Young (少年班)**](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](http://en.ustc.edu.cn/).
+[**Class of the Gifted Young (少年班)**](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](http://en.ustc.edu.cn/).<br>
+
 
 ## Publication
-
-\* indicates equal contribution.
-
----
 
 <img align="left" width="215" height="110" src="../images/sig23_posevocab.jpg" style="padding-right:20px; padding-top:20px"/>
 
@@ -63,7 +62,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <img align="left" width="215" height="110" src="../images/tpami21_portrait.jpg" style="padding-right:20px; padding-top:20px"/>
 
 <b>Robust and Accurate 3D Self-portraits in Seconds</b><br>
-<b>Zhe Li</b>\*, Tao Yu\*, Zerong Zheng, Yebin Liu<br>
+<b>Zhe Li</b>, Tao Yu, Zerong Zheng, Yebin Liu<br>
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>T-PAMI</b>), 2021</i><br>
 [<i class="fas fa-fw fa-file-pdf"></i>Paper](https://ieeexplore.ieee.org/document/9540284/) /
 [<i class="fas fa-fw fa-database"></i>Dataset (Please email me)](mailto:liz19@mails.tsinghua.edu.cn)<br>
@@ -73,7 +72,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <img align="left" width="215" height="110" src="../images/iccv21_lwtotalcap.jpg" style="padding-right:20px; padding-top:20px"/>
 
 <b>Lightweight Multi-person Total Motion Capture Using Sparse Multi-view Cameras</b><br>
-Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu\*, Yebin Liu\*<br>
+Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 <i>IEEE International Conference on Computer Vision (<b>ICCV</b>), 2021</i><br>
 [<i class="fas fa-fw fa-globe"></i>Projectpage](http://www.liuyebin.com/lwtotalcap/lwtotalcap.html) /
 [<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2108.10378.pdf) /
