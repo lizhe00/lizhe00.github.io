@@ -20,8 +20,13 @@ E-mail: liz19 AT mails.tsinghua.edu.cn
 
 ## Background
 
+<img align="left" width="80" height="80" src="../images/tsinghua.png" style="padding-right:20px; padding-top:20px"/>
+
 Ph.D. Student. Sep. 2019 - Jun. 2024 (Expected), [Department of Automation](http://www.au.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm).<br>
-Bachelor of Engineering. Sep. 2015 - Jun. 2019, [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](http://en.ustc.edu.cn/).
+
+<img align="left" width="80" height="80" src="../images/ustc.png" style="padding-right:20px; padding-top:20px"/>
+
+Bachelor of Engineering. Sep. 2015 - Jun. 2019, [**Class of the Gifted Young (少年班)**](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](http://en.ustc.edu.cn/).
 
 ## Publication
 
