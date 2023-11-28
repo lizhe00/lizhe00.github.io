@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhe Li's Homepage"
+title                    : "Zhe Li (李哲)'s Homepage"
 title_separator          : "-"
 name                     : &name "Zhe Li"
-description              : &description "Zhe Li's Homepage"
+description              : &description "Zhe Li (李哲)'s Homepage"
 url                      : https://lizhe00.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lizhe.github.io"
