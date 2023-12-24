@@ -47,7 +47,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
-<img width="160" src="../images/ani_gaussians.gif"/>
+<img width="240" src="../images/ani_gaussians.gif"/>
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 <b>Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling</b><br>
@@ -68,7 +68,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
-<img width="160" src="../images/gaussianhead.jpg"/>
+<img width="240" src="../images/gaussianhead.jpg"/>
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 <b>Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians</b><br>
@@ -89,7 +89,7 @@ Yuelang Xu, Benwang Chen, <b>Zhe Li</b>, Hongwen Zhang, Lizhen Wang, Zerong Zhen
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
-<img width="160" src="../images/sig23_posevocab.jpg"/>
+<img width="240" src="../images/sig23_posevocab.jpg"/>
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 <b>PoseVocab: Learning Joint-structured Pose Embeddings for Human Avatar Modeling</b><br>
@@ -110,7 +110,7 @@ Yuelang Xu, Benwang Chen, <b>Zhe Li</b>, Hongwen Zhang, Lizhen Wang, Zerong Zhen
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
-<img width="160" src="../images/eccv22_avatarcap.jpg"/>
+<img width="240" src="../images/eccv22_avatarcap.jpg"/>
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 <b>AvatarCap: Animatable Avatar Conditioned Monocular Human Volumetric Capture</b><br>
@@ -131,7 +131,7 @@ Yuelang Xu, Benwang Chen, <b>Zhe Li</b>, Hongwen Zhang, Lizhen Wang, Zerong Zhen
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
-<img width="160" src="../images/tpami21_portrait.jpg"/>
+<img width="240" src="../images/tpami21_portrait.jpg"/>
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 <b>Robust and Accurate 3D Self-portraits in Seconds</b><br>
@@ -150,7 +150,7 @@ Yuelang Xu, Benwang Chen, <b>Zhe Li</b>, Hongwen Zhang, Lizhen Wang, Zerong Zhen
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
-<img width="160" src="../images/cvpr21_posefusion.jpg"/>
+<img width="240" src="../images/cvpr21_posefusion.jpg"/>
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 <b>POSEFusion: Pose-guided Selective Fusion for Single-view Human Volumetric Capture</b><br>
@@ -171,7 +171,7 @@ Yuelang Xu, Benwang Chen, <b>Zhe Li</b>, Hongwen Zhang, Lizhen Wang, Zerong Zhen
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
-<img width="160" src="../images/iccv21_lwtotalcap.jpg"/>
+<img width="240" src="../images/iccv21_lwtotalcap.jpg"/>
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 <b>Lightweight Multi-person Total Motion Capture Using Sparse Multi-view Cameras</b><br>
@@ -191,7 +191,7 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
-<img width="160" src="../images/cvpr20_portrait.jpg"/>
+<img width="240" src="../images/cvpr20_portrait.jpg"/>
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 <b>Robust 3D Self-portraits in Seconds</b><br>
