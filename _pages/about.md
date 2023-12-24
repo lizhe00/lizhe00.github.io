@@ -18,7 +18,7 @@ My research focuses on **human-centric 3D vision**, including 3D human reconstru
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 <tr>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none">
-<img width="80" src="../images/tsinghua.png"/> 
+<img align="center" width="80" src="../images/tsinghua.png"/> 
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none">
 Ph.D. Student. Sep. 2019 - Jun. 2024 (Expected)<br>
@@ -28,7 +28,7 @@ Ph.D. Student. Sep. 2019 - Jun. 2024 (Expected)<br>
 </tr>
 <tr>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none">
-<img width="80" src="../images/ustc.png"/> 
+<img align="center" width="80" src="../images/ustc.png"/> 
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none">
 Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
@@ -38,16 +38,6 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 </tr>
 </table>    
 </div>
-
-<!-- <img align="left" width="80" height="80" src="../images/tsinghua.png" style="padding-right:20px; padding-top:20px"/> 
-
-Ph.D. Student. Sep. 2019 - Jun. 2024 (Expected)<br>[Department of Automation](http://www.au.tsinghua.edu.cn/)<br>[Tsinghua University](https://www.tsinghua.edu.cn/en/index.html)<br>
-
----
-
-<img align="left" width="80" height="80" src="../images/ustc.png" style="padding-right:20px; padding-top:20px"/>
-
-Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>[**Class of the Gifted Young (少年班)**](http://en.scgy.ustc.edu.cn/)<br>[University of Science and Technology of China](http://en.ustc.edu.cn/)<br> -->
 
 
 ## Research
