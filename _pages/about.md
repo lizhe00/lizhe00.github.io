@@ -15,7 +15,7 @@ My research focuses on **human-centric 3D vision**, including 3D human reconstru
 ## Background
 
 <div>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: medium">
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
 <img width="80" src="../images/tsinghua.png"/> 
@@ -26,6 +26,7 @@ Ph.D. Student. Sep. 2019 - Jun. 2024 (Expected)<br>
 <a href="https://www.tsinghua.edu.cn/en/index.html">Tsinghua University</a><br>
 </td>
 </tr>
+
 <tr>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
 <img width="80" src="../images/ustc.png"/> 
@@ -42,96 +43,168 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 
 ## Research
 
-<img align="left" width="215" src="../images/ani_gaussians.gif" style="padding-right:20px; padding-top:20px"/>
-
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
+<img width="160" src="../images/ani_gaussians.gif"/>
+</td>
+<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 <b>Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling</b><br>
 <b>Zhe Li</b>, Zerong Zheng, Lizhen Wang, Yebin Liu<br>
-arXiv, 2023<br>
-[<i class="fas fa-fw fa-globe"></i>Projectpage](https://animatable-gaussians.github.io/) /
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2311.16096.pdf) /
-[<i class="fas fa-fw fa-video"></i>Video](https://www.youtube.com/watch?v=kOmZxD0HxZI) /
-[<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/lizhe00/AnimatableGaussians)<br>
+<i>arXiv, 2023</i><br>
+<a href="https://animatable-gaussians.github.io/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="https://arxiv.org/pdf/2311.16096.pdf"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="https://www.youtube.com/watch?v=kOmZxD0HxZI"><i class="fas fa-fw fa-video"></i>Video</a> /
+<a href="https://github.com/lizhe00/AnimatableGaussians"><i class="fab fa-fw fa-github fa-github"></i>Code</a>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-<img align="left" width="215" height="110" src="../images/gaussianhead.jpg" style="padding-right:20px; padding-top:20px"/>
-
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
+<img width="160" src="../images/gaussianhead.jpg"/>
+</td>
+<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 <b>Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians</b><br>
 Yuelang Xu, Benwang Chen, <b>Zhe Li</b>, Hongwen Zhang, Lizhen Wang, Zerong Zheng, Yebin Liu<br>
-arXiv, 2023<br>
-[<i class="fas fa-fw fa-globe"></i>Projectpage](https://yuelangx.github.io/gaussianheadavatar/) /
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/abs/2312.03029.pdf) /
-[<i class="fas fa-fw fa-video"></i>Video](https://www.youtube.com/watch?v=kvrrI3EoM5g) /
-[<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/YuelangX/Gaussian-Head-Avatar)<br>
+<i>arXiv, 2023</i><br>
+<a href="https://yuelangx.github.io/gaussianheadavatar/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="https://arxiv.org/abs/2312.03029.pdf"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="https://www.youtube.com/watch?v=kvrrI3EoM5g"><i class="fas fa-fw fa-video"></i>Video</a> /
+<a href="https://github.com/YuelangX/Gaussian-Head-Avatar"><i class="fab fa-fw fa-github fa-github"></i>Code</a>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-<img align="left" width="215" height="110" src="../images/sig23_posevocab.jpg" style="padding-right:20px; padding-top:20px"/>
-
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
+<img width="160" src="../images/sig23_posevocab.jpg"/>
+</td>
+<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 <b>PoseVocab: Learning Joint-structured Pose Embeddings for Human Avatar Modeling</b><br>
 <b>Zhe Li</b>, Zerong Zheng, Yuxiao Liu, Boyao Zhou, Yebin Liu<br>
 <i><b>SIGGRAPH</b> Conference Proceedings, 2023</i><br>
-[<i class="fas fa-fw fa-globe"></i>Projectpage](https://lizhe00.github.io/projects/posevocab) /
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2304.13006.pdf) /
-[<i class="fas fa-fw fa-video"></i>Video](https://youtu.be/L-kg74A6yNc) /
-[<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/lizhe00/PoseVocab)<br>
+<a href="https://lizhe00.github.io/projects/posevocab/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="https://arxiv.org/pdf/2304.13006.pdf"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="https://youtu.be/L-kg74A6yNc"><i class="fas fa-fw fa-video"></i>Video</a> /
+<a href="https://github.com/lizhe00/PoseVocab"><i class="fab fa-fw fa-github fa-github"></i>Code</a>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-<img align="left" width="215" height="110" src="../images/eccv22_avatarcap.jpg" style="padding-right:20px; padding-top:20px"/>
-
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
+<img width="160" src="../images/eccv22_avatarcap.jpg"/>
+</td>
+<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 <b>AvatarCap: Animatable Avatar Conditioned Monocular Human Volumetric Capture</b><br>
 <b>Zhe Li</b>, Zerong Zheng, Hongwen Zhang, Chaonan Ji, Yebin Liu<br>
 <i>European Conference on Computer Vision (<b>ECCV</b>), 2022</i><br>
-[<i class="fas fa-fw fa-globe"></i>Projectpage](http://www.liuyebin.com/avatarcap/avatarcap.html) /
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2207.02031.pdf) /
-[<i class="fas fa-fw fa-video"></i>Video](http://www.liuyebin.com/avatarcap/assets/supp_video.mp4) /
-[<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/lizhe00/AvatarCap)<br>
+<a href="http://www.liuyebin.com/avatarcap/avatarcap.html"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="https://arxiv.org/pdf/2207.02031.pdf"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="http://www.liuyebin.com/avatarcap/assets/supp_video.mp4"><i class="fas fa-fw fa-video"></i>Video</a> /
+<a href="https://github.com/lizhe00/AvatarCap"><i class="fab fa-fw fa-github fa-github"></i>Code</a>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-<img align="left" width="215" height="110" src="../images/tpami21_portrait.jpg" style="padding-right:20px; padding-top:20px"/>
-
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
+<img width="160" src="../images/tpami21_portrait.jpg"/>
+</td>
+<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 <b>Robust and Accurate 3D Self-portraits in Seconds</b><br>
 <b>Zhe Li</b>, Tao Yu, Zerong Zheng, Yebin Liu<br>
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>T-PAMI</b>), 2021</i><br>
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://ieeexplore.ieee.org/document/9540284/) /
-[<i class="fas fa-fw fa-database"></i>Dataset (Please email me)](mailto:liz19@mails.tsinghua.edu.cn)<br>
+<a href="http://www.liuyebin.com/portrait/portrait.html"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="https://ieeexplore.ieee.org/document/9540284/"><i class="fas fa-fw fa-file-pdf"></i>Paper</a>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-<img align="left" width="215" height="110" src="../images/iccv21_lwtotalcap.jpg" style="padding-right:20px; padding-top:20px"/>
-
-<b>Lightweight Multi-person Total Motion Capture Using Sparse Multi-view Cameras</b><br>
-Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
-<i>IEEE International Conference on Computer Vision (<b>ICCV</b>), 2021</i><br>
-[<i class="fas fa-fw fa-globe"></i>Projectpage](http://www.liuyebin.com/lwtotalcap/lwtotalcap.html) /
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2108.10378.pdf) /
-[<i class="fas fa-fw fa-video"></i>Video](http://www.liuyebin.com/lwtotalcap/assets/video.mp4)<br>
-
----
-
-<img align="left" width="215" height="110" src="../images/cvpr21_posefusion.jpg" style="padding-right:20px; padding-top:20px"/>
-
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
+<img width="160" src="../images/cvpr21_posefusion.jpg"/>
+</td>
+<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 <b>POSEFusion: Pose-guided Selective Fusion for Single-view Human Volumetric Capture</b><br>
 <b>Zhe Li</b>, Tao Yu, Zerong Zheng, Kaiwen Guo, Yebin Liu<br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2021</i>  <font color="#dd0000">(Oral presentation)</font><br>
-[<i class="fas fa-fw fa-globe"></i>Projectpage](http://www.liuyebin.com/posefusion/posefusion.html) /
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2103.15331.pdf) /
-[<i class="fas fa-fw fa-video"></i>Video](http://www.liuyebin.com/posefusion/assets/supp_video.mp4) /
-[<i class="fas fa-fw fa-video"></i>Talk](https://youtu.be/34jrPLkiPrw)<br>
+<a href="http://www.liuyebin.com/posefusion/posefusion.html"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="https://arxiv.org/pdf/2103.15331.pdf"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="http://www.liuyebin.com/posefusion/assets/supp_video.mp4"><i class="fas fa-fw fa-video"></i>Video</a> /
+<a href="https://youtu.be/34jrPLkiPrw"><i class="fas fa-fw fa-video"></i>Talk</a><br>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-<img align="left" width="215" height="110" src="../images/cvpr20_portrait.jpg" style="padding-right:20px; padding-top:20px"/>
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
+<img width="160" src="../images/iccv21_lwtotalcap.jpg"/>
+</td>
+<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
+<b>Lightweight Multi-person Total Motion Capture Using Sparse Multi-view Cameras</b><br>
+Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
+<i>IEEE International Conference on Computer Vision (<b>ICCV</b>), 2021</i><br>
+<a href="http://www.liuyebin.com/lwtotalcap/lwtotalcap.html"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="https://arxiv.org/pdf/2108.10378.pdf"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="http://www.liuyebin.com/lwtotalcap/assets/video.mp4"><i class="fas fa-fw fa-video"></i>Video</a> /
+</td>
+</tr>
+</table>
+</div>
 
+---
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
+<img width="160" src="../images/cvpr20_portrait.jpg"/>
+</td>
+<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 <b>Robust 3D Self-portraits in Seconds</b><br>
 <b>Zhe Li</b>, Tao Yu, Chuanyu Pan, Zerong Zheng, Yebin Liu<br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2020</i>  <font color="#dd0000">(Oral presentation)</font><br>
-[<i class="fas fa-fw fa-globe"></i>Projectpage](http://www.liuyebin.com/portrait/portrait.html) /
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Robust_3D_Self-Portraits_in_Seconds_CVPR_2020_paper.pdf) /
-[<i class="fas fa-fw fa-video"></i>Video](http://www.liuyebin.com/portrait/assets/portrait.mp4) /
-[<i class="fas fa-fw fa-video"></i>Talk](https://youtu.be/nx-pzk12hLY)<br>
+<a href="http://www.liuyebin.com/portrait/portrait.html"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Robust_3D_Self-Portraits_in_Seconds_CVPR_2020_paper.pdf"><i class="fas fa-fw fa-file-pdf"></i>Paper</a>
+<a href="http://www.liuyebin.com/portrait/assets/portrait.mp4"><i class="fas fa-fw fa-video"></i>Video</a> /
+<a href="https://youtu.be/nx-pzk12hLY"><i class="fas fa-fw fa-video"></i>Talk</a><br>
+</td>
+</tr>
+</table>
+</div>
 
 ## Award
 + Tsinghua Kuaishou Scholarship, Tsinghua University, 2023
