@@ -9,14 +9,7 @@ redirect_from:
 ---
 
 Hi, this is Zhe Li. I am a final-year (2019~) Ph.D. student in Department of Automation, Tsinghua University, advised by Prof. [Yebin Liu](http://www.liuyebin.com/).
-My research focuses on **human-centric 3D vision**, including animatable avatar modeling, human reconstruction and generation, etc.
-
-I am looking for positions in the industry in 2024, including digital human avatars, human reconstruction and generation, 3D AIGC, etc.<br>
-我正在寻找2024年工业界机会，包括但不限于数字人、人体重建与生成、3D内容生成等，欢迎联系。<br>
-[[中文简历]](./files/李哲_简历.pdf)<br>
-[[Resume]](./files/Zhe_Li_Resume.pdf)<br>
-WeChat: nexus_unite<br>
-E-mail: liz19 AT mails.tsinghua.edu.cn
+My research focuses on **human-centric 3D vision**, including 3D human reconstruction, animation and generation, etc.
 
 
 ## Background
@@ -38,15 +31,27 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 
 ## Research
 
-<img align="left" width="215" height="110" src="../images/ani_gaussians.gif" style="padding-right:20px; padding-top:20px"/>
+<img align="left" width="215" src="../images/ani_gaussians.gif" style="padding-right:20px; padding-top:20px"/>
 
 <b>Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling</b><br>
 <b>Zhe Li</b>, Zerong Zheng, Lizhen Wang, Yebin Liu<br>
-arXiv 2023<br>
+arXiv, 2023<br>
 [<i class="fas fa-fw fa-globe"></i>Projectpage](https://animatable-gaussians.github.io/) /
 [<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2311.16096.pdf) /
 [<i class="fas fa-fw fa-video"></i>Video](https://www.youtube.com/watch?v=kOmZxD0HxZI) /
 [<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/lizhe00/AnimatableGaussians)<br>
+
+---
+
+<img align="left" width="215" src="../images/gaussianhead.jpg" style="padding-right:20px; padding-top:20px"/>
+
+<b>Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians</b><br>
+Yuelang Xu, Benwang Chen, <b>Zhe Li</b>, Hongwen Zhang, Lizhen Wang, Zerong Zheng, Yebin Liu<br>
+arXiv, 2023<br>
+[<i class="fas fa-fw fa-globe"></i>Projectpage](https://yuelangx.github.io/gaussianheadavatar/) /
+[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/abs/2312.03029.pdf) /
+[<i class="fas fa-fw fa-video"></i>Video](https://www.youtube.com/watch?v=kvrrI3EoM5g) /
+[<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/YuelangX/Gaussian-Head-Avatar)<br>
 
 ---
 
@@ -118,6 +123,7 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 [<i class="fas fa-fw fa-video"></i>Talk](https://youtu.be/nx-pzk12hLY)<br>
 
 ## Award
++ Tsinghua Kuaishou Scholarship, Tsinghua University, 2023
 + Tsinghua Alumni Li Yanda Scholarship, Tsinghua University, 2022
 + <b>National Scholarship</b>, Ministry of Education of China, 2021
 
