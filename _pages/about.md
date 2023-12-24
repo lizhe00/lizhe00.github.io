@@ -46,10 +46,10 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
-<td style="padding:20px;width:35%;vertical-align:middle;border:none" align="center">
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
 <img width="350" src="../images/ani_gaussians.gif"/>
 </td>
-<td style="padding:20px;width:65%;vertical-align:middle;border: none" align="left">
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling</b><br>
 <b>Zhe Li</b>, Zerong Zheng, Lizhen Wang, Yebin Liu<br>
 <i>arXiv, 2023</i><br>
@@ -67,10 +67,10 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
-<td style="padding:20px;width:35%;vertical-align:middle;border:none" align="center">
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
 <img width="350" src="../images/gaussianhead.jpg"/>
 </td>
-<td style="padding:20px;width:65%;vertical-align:middle;border: none" align="left">
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians</b><br>
 Yuelang Xu, Benwang Chen, <b>Zhe Li</b>, Hongwen Zhang, Lizhen Wang, Zerong Zheng, Yebin Liu<br>
 <i>arXiv, 2023</i><br>
@@ -88,10 +88,10 @@ Yuelang Xu, Benwang Chen, <b>Zhe Li</b>, Hongwen Zhang, Lizhen Wang, Zerong Zhen
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
-<td style="padding:20px;width:35%;vertical-align:middle;border:none" align="center">
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
 <img width="350" src="../images/sig23_posevocab.jpg"/>
 </td>
-<td style="padding:20px;width:65%;vertical-align:middle;border: none" align="left">
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>PoseVocab: Learning Joint-structured Pose Embeddings for Human Avatar Modeling</b><br>
 <b>Zhe Li</b>, Zerong Zheng, Yuxiao Liu, Boyao Zhou, Yebin Liu<br>
 <i><b>SIGGRAPH</b> Conference Proceedings, 2023</i><br>
@@ -109,10 +109,10 @@ Yuelang Xu, Benwang Chen, <b>Zhe Li</b>, Hongwen Zhang, Lizhen Wang, Zerong Zhen
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
-<td style="padding:20px;width:35%;vertical-align:middle;border:none" align="center">
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
 <img width="350" src="../images/eccv22_avatarcap.jpg"/>
 </td>
-<td style="padding:20px;width:65%;vertical-align:middle;border: none" align="left">
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>AvatarCap: Animatable Avatar Conditioned Monocular Human Volumetric Capture</b><br>
 <b>Zhe Li</b>, Zerong Zheng, Hongwen Zhang, Chaonan Ji, Yebin Liu<br>
 <i>European Conference on Computer Vision (<b>ECCV</b>), 2022</i><br>
@@ -130,10 +130,10 @@ Yuelang Xu, Benwang Chen, <b>Zhe Li</b>, Hongwen Zhang, Lizhen Wang, Zerong Zhen
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
-<td style="padding:20px;width:35%;vertical-align:middle;border:none" align="center">
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
 <img width="350" src="../images/tpami21_portrait.jpg"/>
 </td>
-<td style="padding:20px;width:65%;vertical-align:middle;border: none" align="left">
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>Robust and Accurate 3D Self-portraits in Seconds</b><br>
 <b>Zhe Li</b>, Tao Yu, Zerong Zheng, Yebin Liu<br>
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>T-PAMI</b>), 2021</i><br>
@@ -149,10 +149,10 @@ Yuelang Xu, Benwang Chen, <b>Zhe Li</b>, Hongwen Zhang, Lizhen Wang, Zerong Zhen
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
-<td style="padding:20px;width:35%;vertical-align:middle;border:none" align="center">
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
 <img width="350" src="../images/cvpr21_posefusion.jpg"/>
 </td>
-<td style="padding:20px;width:65%;vertical-align:middle;border: none" align="left">
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>POSEFusion: Pose-guided Selective Fusion for Single-view Human Volumetric Capture</b><br>
 <b>Zhe Li</b>, Tao Yu, Zerong Zheng, Kaiwen Guo, Yebin Liu<br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2021</i>  <font color="#dd0000">(Oral presentation)</font><br>
@@ -170,10 +170,10 @@ Yuelang Xu, Benwang Chen, <b>Zhe Li</b>, Hongwen Zhang, Lizhen Wang, Zerong Zhen
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
-<td style="padding:20px;width:35%;vertical-align:middle;border:none" align="center">
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
 <img width="350" src="../images/iccv21_lwtotalcap.jpg"/>
 </td>
-<td style="padding:20px;width:65%;vertical-align:middle;border: none" align="left">
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>Lightweight Multi-person Total Motion Capture Using Sparse Multi-view Cameras</b><br>
 Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 <i>IEEE International Conference on Computer Vision (<b>ICCV</b>), 2021</i><br>
@@ -190,10 +190,10 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
-<td style="padding:20px;width:35%;vertical-align:middle;border:none" align="center">
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
 <img width="350" src="../images/cvpr20_portrait.jpg"/>
 </td>
-<td style="padding:20px;width:65%;vertical-align:middle;border: none" align="left">
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>Robust 3D Self-portraits in Seconds</b><br>
 <b>Zhe Li</b>, Tao Yu, Chuanyu Pan, Zerong Zheng, Yebin Liu<br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2020</i>  <font color="#dd0000">(Oral presentation)</font><br>
