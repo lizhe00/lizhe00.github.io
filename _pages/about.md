@@ -14,23 +14,23 @@ My research focuses on **human-centric 3D vision**, including 3D human reconstru
 
 ## Background
 
-<div align="left">
+<div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 <tr>
-<td style="padding:20px;width:25%;vertical-align:middle;border:none">
-<img align="center" width="80" src="../images/tsinghua.png"/> 
+<td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
+<img width="80" src="../images/tsinghua.png"/> 
 </td>
-<td style="padding:20px;width:75%;vertical-align:middle;border: none">
+<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 Ph.D. Student. Sep. 2019 - Jun. 2024 (Expected)<br>
 <a href="http://www.au.tsinghua.edu.cn/">Department of Automation</a><br>
 <a href="https://www.tsinghua.edu.cn/en/index.html">Tsinghua University</a><br>
 </td>
 </tr>
 <tr>
-<td style="padding:20px;width:25%;vertical-align:middle;border:none">
-<img align="center" width="80" src="../images/ustc.png"/> 
+<td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
+<img width="80" src="../images/ustc.png"/> 
 </td>
-<td style="padding:20px;width:75%;vertical-align:middle;border: none">
+<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <a href="https://sgy.ustc.edu.cn/"><b>Class of the Gifted Young (少年班)</b></a><br>
 <a href="http://en.ustc.edu.cn/">University of Science and Technology of China</a><br>
