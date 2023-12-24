@@ -17,10 +17,10 @@ My research focuses on **human-centric 3D vision**, including 3D human reconstru
 <div align="left">
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 <tr>
-<td>
+<td style="padding:20px;width:25%;vertical-align:middle">
 <img align="left" width="80" height="80" src="../images/tsinghua.png" style="padding-right:20px; padding-top:20px"/> 
 </td>
-<td>
+<td style="padding:20px;width:75%;vertical-align:middle">
 Ph.D. Student. Sep. 2019 - Jun. 2024 (Expected)<br>Department of Automation<br>Tsinghua University<br>
 </td>
 </tr>
