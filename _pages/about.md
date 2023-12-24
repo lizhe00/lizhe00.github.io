@@ -15,7 +15,7 @@ My research focuses on **human-centric 3D vision**, including 3D human reconstru
 ## Background
 
 <div align="left">
-<table rules="none">
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 <tr>
 <td>
 <img align="left" width="80" height="80" src="../images/tsinghua.png" style="padding-right:20px; padding-top:20px"/> 
