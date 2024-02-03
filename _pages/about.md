@@ -212,5 +212,5 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 + <b>National Scholarship</b>, Ministry of Education of China, 2021
 
 ## Contact
-E-mail: liz19 AT mails.tsinghua.edu.cn<br>
+E-mail: lizhe.thu[AT]hotmail.com<br>
 WeChat: nexus_unite
