@@ -52,7 +52,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling</b><br>
 <b>Zhe Li</b>, Zerong Zheng, Lizhen Wang, Yebin Liu<br>
-<i>arXiv, 2023</i><br>
+<i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2024</i><br>
 <a href="https://animatable-gaussians.github.io/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
 <a href="https://arxiv.org/pdf/2311.16096.pdf"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href="https://www.youtube.com/watch?v=kOmZxD0HxZI"><i class="fas fa-fw fa-video"></i>Video</a> /
@@ -73,7 +73,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians</b><br>
 Yuelang Xu, Benwang Chen, <b>Zhe Li</b>, Hongwen Zhang, Lizhen Wang, Zerong Zheng, Yebin Liu<br>
-<i>arXiv, 2023</i><br>
+<i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2024</i><br>
 <a href="https://yuelangx.github.io/gaussianheadavatar/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
 <a href="https://arxiv.org/pdf/2312.03029.pdf"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href="https://www.youtube.com/watch?v=kvrrI3EoM5g"><i class="fas fa-fw fa-video"></i>Video</a> /
@@ -212,5 +212,4 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 + <b>National Scholarship</b>, Ministry of Education of China, 2021
 
 ## Contact
-E-mail: lizhe.thu[AT]hotmail.com<br>
-WeChat: nexus_unite
+E-mail: liz19[AT]mails.tsinghua.edu.cn
