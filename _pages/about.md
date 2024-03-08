@@ -33,7 +33,7 @@ Ph.D. Student. Sep. 2019 - Jun. 2024 (Expected)<br>
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
-<a href="https://sgy.ustc.edu.cn/"><b>Class of the Gifted Young (少年班)</b></a><br>
+<a href="https://sgy.ustc.edu.cn/">Class of the Gifted Young (少年班)</a><br>
 <a href="http://en.ustc.edu.cn/">University of Science and Technology of China</a><br>
 </td>
 </tr>
@@ -78,6 +78,27 @@ Yuelang Xu, Benwang Chen, <b>Zhe Li</b>, Hongwen Zhang, Lizhen Wang, Zerong Zhen
 <a href="https://arxiv.org/pdf/2312.03029.pdf"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href="https://www.youtube.com/watch?v=kvrrI3EoM5g"><i class="fas fa-fw fa-video"></i>Video</a> /
 <a href="https://github.com/YuelangX/Gaussian-Head-Avatar"><i class="fab fa-fw fa-github fa-github"></i>Code</a>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<img width="350" src="../images/texvocab.jpg"/>
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>TexVocab:Texture Vocabulary-conditioned Human Avatars</b><br>
+Yuxiao Liu, <b>Zhe Li</b>, Yebin Liu, Haoqian Wang<br>
+<i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2024</i><br>
+<a href="https://texvocab.github.io/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href=""><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href=""><i class="fas fa-fw fa-video"></i>Video</a> /
+<a href=""><i class="fab fa-fw fa-github fa-github"></i>Code</a>
 </td>
 </tr>
 </table>
