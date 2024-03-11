@@ -92,7 +92,7 @@ Yuelang Xu, Benwang Chen, <b>Zhe Li</b>, Hongwen Zhang, Lizhen Wang, Zerong Zhen
 <img width="350" src="../images/texvocab.jpg"/>
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
-<b>TexVocab:Texture Vocabulary-conditioned Human Avatars</b><br>
+<b>TexVocab: Texture Vocabulary-conditioned Human Avatars</b><br>
 Yuxiao Liu, <b>Zhe Li</b>, Yebin Liu, Haoqian Wang<br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2024</i><br>
 <a href="https://texvocab.github.io/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
