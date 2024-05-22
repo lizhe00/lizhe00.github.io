@@ -48,7 +48,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
 <!-- <img width="350" src="../images/ani_gaussians.gif"/> -->
-<video width="350" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+<video width="180" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
   <source src="images/ani_relit_gaussians.mp4" type="video/mp4">
 </video>
 </td>
