@@ -47,6 +47,47 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<!-- <img width="350" src="../images/ani_gaussians.gif"/> -->
+<video width="350" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+  <source src="images/ani_relit_gaussians.mp4" type="video/mp4">
+</video>
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>Animatable and Relightable Gaussians for High-fidelity Human Avatar Modeling</b><br>
+<b>Zhe Li</b>*, Yipengjing Sun*, Zerong Zheng, Lizhen Wang, Shengping Zhang, Yebin Liu (*=equal contribution)<br>
+<i>arXiv, 2024</i><br>
+<a href="https://animatable-gaussians.github.io/relight/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href=""><i class="fas fa-fw fa-file-pdf"></i>Paper (Comming Soon)</a> /
+<a href="https://www.youtube.com/watch?v=odQOweNhsHM"><i class="fas fa-fw fa-video"></i>Video</a>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<img width="350" src="../images/sig24_layga.jpg"/>
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer</b><br>
+Siyou Lin, <b>Zhe Li</b>, Zhaoqi Su, Zerong Zheng, Hongwen Zhang, Yebin Liu<br>
+<i><b>SIGGRAPH</b> Conference Proceedings, 2024</i><br>
+<a href="https://jsnln.github.io/layga/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="https://arxiv.org/pdf/2405.07319"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="https://jsnln.github.io/layga/assets/video_compressed.mp4"><i class="fas fa-fw fa-video"></i>Video</a>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
 <img width="350" src="../images/ani_gaussians.gif"/>
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
@@ -54,7 +95,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <b>Zhe Li</b>, Zerong Zheng, Lizhen Wang, Yebin Liu<br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2024</i><br>
 <a href="https://animatable-gaussians.github.io/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
-<a href="https://arxiv.org/pdf/2311.16096.pdf"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="https://arxiv.org/pdf/2311.16096v3"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href="https://www.youtube.com/watch?v=kOmZxD0HxZI"><i class="fas fa-fw fa-video"></i>Video</a> /
 <a href="https://github.com/lizhe00/AnimatableGaussians"><i class="fab fa-fw fa-github fa-github"></i>Code</a>
 </td>
@@ -96,9 +137,7 @@ Yuelang Xu, Benwang Chen, <b>Zhe Li</b>, Hongwen Zhang, Lizhen Wang, Zerong Zhen
 Yuxiao Liu, <b>Zhe Li</b>, Yebin Liu, Haoqian Wang<br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2024</i><br>
 <a href="https://texvocab.github.io/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
-<a href=""><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
-<a href=""><i class="fas fa-fw fa-video"></i>Video</a> /
-<a href=""><i class="fab fa-fw fa-github fa-github"></i>Code</a>
+<a href="https://arxiv.org/pdf/2404.00524"><i class="fas fa-fw fa-file-pdf"></i>Paper</a>
 </td>
 </tr>
 </table>
@@ -227,7 +266,7 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 </table>
 </div>
 
-## Award
+## Awards
 + Tsinghua Kuaishou Scholarship, Tsinghua University, 2023
 + Tsinghua Alumni Li Yanda Scholarship, Tsinghua University, 2022
 + <b>National Scholarship</b>, Ministry of Education of China, 2021
