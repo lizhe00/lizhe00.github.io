@@ -48,7 +48,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
 <!-- <img width="350" src="../images/ani_gaussians.gif"/> -->
-<video width="185" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+<video width="100%" autoplay="autoplay" loop="loop">
   <source src="images/ani_relit_gaussians.mp4" type="video/mp4">
 </video>
 </td>
@@ -70,7 +70,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
-<img width="350" src="../images/sig24_layga.jpg"/>
+<img width="100%" src="../images/sig24_layga.jpg"/>
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer</b><br>
