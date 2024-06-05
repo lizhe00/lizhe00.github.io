@@ -56,7 +56,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <b>Zhe Li</b>*, Yipengjing Sun*, Zerong Zheng, Lizhen Wang, Shengping Zhang, Yebin Liu (*=equal contribution)<br>
 <i>arXiv, 2024</i><br>
 <a href="https://animatable-gaussians.github.io/relight/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
-<a href=""><i class="fas fa-fw fa-file-pdf"></i>Paper (Comming Soon)</a> /
+<a href="https://arxiv.org/pdf/2311.16096"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href="https://www.youtube.com/watch?v=odQOweNhsHM"><i class="fas fa-fw fa-video"></i>Video</a>
 </td>
 </tr>
