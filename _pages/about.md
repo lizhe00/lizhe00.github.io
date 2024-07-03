@@ -274,7 +274,7 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 </div>
 
 ## Awards
-+ Huawei TopMinds Program (华为“天才少年”称号), 2023
++ <b>Huawei TopMinds Program (华为“天才少年”称号)</b>, 2023
 + Tsinghua Kuaishou Scholarship, Tsinghua University, 2023
 + Tsinghua Alumni Li Yanda Scholarship, Tsinghua University, 2022
 + <b>National Scholarship</b>, Ministry of Education of China, 2021

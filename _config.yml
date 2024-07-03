@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhe Li (李哲)"
   avatar           : "avatar.jpg"
-  bio              : "Ph.D. student at Tsinghua University"
-  location         : "Beijing, China"
+  bio              : "Researcher at Huawei"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : https://scholar.google.com/citations?user=yoKlecIAAAAJ&hl=en
-  email            : "liz19@mails.tsinghua.edu.cn"
+  googlescholar    : https://scholar.google.com/citations?user=yoKlecIAAAAJ
+  email            : "lizhe_thu@126.com"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : lizhe_thu
   vine             :
   weibo            :
   xing             :
