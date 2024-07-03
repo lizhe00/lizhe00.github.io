@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Zhe Li. I am a final-year (2019~) Ph.D. student in Department of Automation, Tsinghua University, advised by Prof. [Yebin Liu](http://www.liuyebin.com/).
+Hi, this is Zhe Li. 
+I join Huawei as a researcher through [the TopMinds Program (华为“天才少年”计划)](https://career.huawei.com/reccampportal/portal5/topminds.html) in 2024.
+I obtained my Ph.D. degree in 2024 from Department of Automation, Tsinghua University, advised by Prof. [Yebin Liu](http://www.liuyebin.com/).
 My research focuses on **human-centric 3D vision**, including 3D human reconstruction, animation and generation, etc.
 
+<b><font color="deeppink">华为2012实验室-中央媒体院-CGXR工程部 实习生/全职招聘：</font></b><br>
+华为媒体院-CGXR工程部专注于三维视觉相关研究，如果您对我们的研究领域（包括但不限于三维重建、动画、三维/四维生成）感兴趣，欢迎通过微信或邮件联系！<br>
+WeChat: nexus_unite<br>
+E-mail: lizhe_thu[AT]126.com
 
 ## Background
 
@@ -21,7 +27,7 @@ My research focuses on **human-centric 3D vision**, including 3D human reconstru
 <img width="80" src="../images/tsinghua.png"/> 
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
-Ph.D. Student. Sep. 2019 - Jun. 2024 (Expected)<br>
+Ph.D. Sep. 2019 - Jun. 2024<br>
 <a href="http://www.au.tsinghua.edu.cn/">Department of Automation</a><br>
 <a href="https://www.tsinghua.edu.cn/en/index.html">Tsinghua University</a><br>
 </td>
@@ -74,7 +80,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer</b><br>
 Siyou Lin, <b>Zhe Li</b>, Zhaoqi Su, Zerong Zheng, Hongwen Zhang, Yebin Liu<br>
-<i><b>SIGGRAPH</b> Conference Proceedings, 2024</i><br>
+<i>ACM <b>SIGGRAPH</b> Conference Proceedings, 2024</i><br>
 <a href="https://jsnln.github.io/layga/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
 <a href="https://arxiv.org/pdf/2405.07319"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href="https://jsnln.github.io/layga/assets/video_compressed.mp4"><i class="fas fa-fw fa-video"></i>Video</a>
@@ -155,7 +161,7 @@ Yuxiao Liu, <b>Zhe Li</b>, Yebin Liu, Haoqian Wang<br>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>PoseVocab: Learning Joint-structured Pose Embeddings for Human Avatar Modeling</b><br>
 <b>Zhe Li</b>, Zerong Zheng, Yuxiao Liu, Boyao Zhou, Yebin Liu<br>
-<i><b>SIGGRAPH</b> Conference Proceedings, 2023</i><br>
+<i>ACM <b>SIGGRAPH</b> Conference Proceedings, 2023</i><br>
 <a href="https://lizhe00.github.io/projects/posevocab/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
 <a href="https://arxiv.org/pdf/2304.13006.pdf"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href="https://youtu.be/L-kg74A6yNc"><i class="fas fa-fw fa-video"></i>Video</a> /
@@ -216,7 +222,7 @@ Yuxiao Liu, <b>Zhe Li</b>, Yebin Liu, Haoqian Wang<br>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>POSEFusion: Pose-guided Selective Fusion for Single-view Human Volumetric Capture</b><br>
 <b>Zhe Li</b>, Tao Yu, Zerong Zheng, Kaiwen Guo, Yebin Liu<br>
-<i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2021</i>  <font color="#dd0000">(Oral presentation)</font><br>
+<i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2021</i>  <b><font color="#dd0000">(Oral presentation)</font></b><br>
 <a href="http://www.liuyebin.com/posefusion/posefusion.html"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
 <a href="https://arxiv.org/pdf/2103.15331.pdf"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href="http://www.liuyebin.com/posefusion/assets/supp_video.mp4"><i class="fas fa-fw fa-video"></i>Video</a> /
@@ -257,7 +263,7 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>Robust 3D Self-portraits in Seconds</b><br>
 <b>Zhe Li</b>, Tao Yu, Chuanyu Pan, Zerong Zheng, Yebin Liu<br>
-<i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2020</i>  <font color="#dd0000">(Oral presentation)</font><br>
+<i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2020</i>  <b><font color="#dd0000">(Oral presentation)</font></b><br>
 <a href="http://www.liuyebin.com/portrait/portrait.html"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
 <a href="http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Robust_3D_Self-Portraits_in_Seconds_CVPR_2020_paper.pdf"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href="http://www.liuyebin.com/portrait/assets/portrait.mp4"><i class="fas fa-fw fa-video"></i>Video</a> /
@@ -268,9 +274,10 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 </div>
 
 ## Awards
++ Huawei TopMinds Program (华为“天才少年”称号), 2023
 + Tsinghua Kuaishou Scholarship, Tsinghua University, 2023
 + Tsinghua Alumni Li Yanda Scholarship, Tsinghua University, 2022
 + <b>National Scholarship</b>, Ministry of Education of China, 2021
 
 ## Contact
-E-mail: liz19[AT]mails.tsinghua.edu.cn
+E-mail: lizhe_thu[AT]126.com
