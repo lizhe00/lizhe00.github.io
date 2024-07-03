@@ -17,10 +17,10 @@ My research focuses on **human-centric 3D vision**, including 3D human reconstru
 <b><font color="deeppink">Intern/Full-time positions for Huawei 2012 Labs-MTI-CGXR Department:</font></b><br>
 <font size=2>
 华为媒体院-CGXR工程部专注于三维视觉相关研究，如果您对我们的研究领域（包括但不限于三维重建、动画、三维/四维生成、可驱动对象生成）感兴趣，欢迎通过微信或邮件联系！<br>
-Our group in Huawei focuses on 3D vision, including but not limited to 3D reconstruction, animation, 3D/4D generation, animatable avatar generation. If you are interested in our research, please contact me via email or WeChat.<br>
+Our group in Huawei focuses on 3D vision, including but not limited to 3D reconstruction, animation, 3D/4D generation, animatable avatar generation. If you are interested in our research, please contact me via email or WeChat.
+</font><br>
 <b>WeChat:</b> nexus_unite<br>
 <b>E-mail:</b> lizhe_thu[AT]126.com
-</font>
 
 ## Background
 
