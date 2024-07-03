@@ -15,8 +15,8 @@ My research focuses on **human-centric 3D vision**, including 3D human reconstru
 
 <b><font color="deeppink">华为2012实验室-中央媒体院-CGXR工程部 实习生/全职招聘：</font></b><br>
 华为媒体院-CGXR工程部专注于三维视觉相关研究，如果您对我们的研究领域（包括但不限于三维重建、动画、三维/四维生成）感兴趣，欢迎通过微信或邮件联系！<br>
-WeChat: nexus_unite<br>
-E-mail: lizhe_thu[AT]126.com
+**WeChat:** nexus_unite<br>
+**E-mail:** lizhe_thu[AT]126.com
 
 ## Background
 
