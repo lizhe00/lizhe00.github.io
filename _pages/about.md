@@ -15,7 +15,7 @@ My research focuses on **human-centric 3D vision**, including 3D human reconstru
 
 <b><font color="deeppink">华为2012实验室-中央媒体院-CGXR工程部 实习生/全职招聘：</font></b><br>
 华为媒体院-CGXR工程部专注于三维视觉相关研究，如果您对我们的研究领域（包括但不限于三维重建、动画、三维/四维生成、可驱动对象生成）感兴趣，欢迎通过微信或邮件联系！<br>
-Base地：上海、杭州、北京、深圳等<br>
+Base地: 上海、杭州、北京、深圳等<br>
 <b>WeChat:</b> nexus_unite<br>
 <b>E-mail:</b> lizhe_thu[AT]126.com
 
@@ -55,7 +55,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
 <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-  <source src="images/ani_relit_gaussians.mp4" type="video/mp4">
+  <source src="../images/ani_relit_gaussians.mp4" type="video/mp4">
 </video>
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
@@ -76,9 +76,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
-<video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-  <source src="images/ani_relit_gaussians.mp4" type="video/mp4">
-</video>
+<img width="100%" src="../images/meshavatar.jpg"/>
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>MeshAvatar: Learning High-quality Triangular Human Avatars from Multi-view Videos</b><br>
@@ -86,7 +84,7 @@ Yushuo Chen, Zerong Zheng, <b>Zhe Li</b>, Chao Xu, Yebin Liu<br>
 <i>European Conference on Computer Vision (<b>ECCV</b>), 2024</i><br>
 <a href="https://shad0wta9.github.io/meshavatar-page/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
 <a href="https://arxiv.org/pdf/2407.08414"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
-<a href="https://www.youtube.com/watch?v=Kpbpujkh2iI"><i class="fas fa-fw fa-video"></i>Video</a>
+<a href="https://www.youtube.com/watch?v=Kpbpujkh2iI"><i class="fas fa-fw fa-video"></i>Video</a> /
 <a href="https://github.com/shad0wta9/meshavatar"><i class="fab fa-fw fa-github"></i>Code</a>
 </td>
 </tr>
