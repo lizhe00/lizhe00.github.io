@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, this is Zhe Li. 
 I join Huawei as a researcher through [the TopMinds Program (华为“天才少年”计划)](https://career.huawei.com/reccampportal/portal5/topminds.html) in 2024.
-I obtained my Ph.D. degree in 2024 from Department of Automation, Tsinghua University, advised by Prof. [Yebin Liu](http://www.liuyebin.com/).
+Prior to that, I obtained my Ph.D. degree from Department of Automation, Tsinghua University, advised by Prof. [Yebin Liu](http://www.liuyebin.com/).
 My research focuses on **human-centric 3D vision**, including 3D human reconstruction, animation and generation, etc.
 
 <b><font color="deeppink">华为2012实验室-中央媒体院-CGXR工程部 实习生/全职招聘：</font></b><br>
@@ -76,6 +76,29 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+  <source src="images/ani_relit_gaussians.mp4" type="video/mp4">
+</video>
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>MeshAvatar: Learning High-quality Triangular Human Avatars from Multi-view Videos</b><br>
+Yushuo Chen, Zerong Zheng, <b>Zhe Li</b>, Chao Xu, Yebin Liu<br>
+<i>European Conference on Computer Vision (<b>ECCV</b>), 2024</i><br>
+<a href="https://shad0wta9.github.io/meshavatar-page/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="https://arxiv.org/pdf/2407.08414"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="https://www.youtube.com/watch?v=Kpbpujkh2iI"><i class="fas fa-fw fa-video"></i>Video</a>
+<a href="https://github.com/shad0wta9/meshavatar"><i class="fab fa-fw fa-github"></i>Code</a>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
 <img width="100%" src="../images/sig24_layga.jpg"/>
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
@@ -105,7 +128,7 @@ Siyou Lin, <b>Zhe Li</b>, Zhaoqi Su, Zerong Zheng, Hongwen Zhang, Yebin Liu<br>
 <a href="https://animatable-gaussians.github.io/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
 <a href="https://arxiv.org/pdf/2311.16096v3"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href="https://www.youtube.com/watch?v=kOmZxD0HxZI"><i class="fas fa-fw fa-video"></i>Video</a> /
-<a href="https://github.com/lizhe00/AnimatableGaussians"><i class="fab fa-fw fa-github fa-github"></i>Code</a>
+<a href="https://github.com/lizhe00/AnimatableGaussians"><i class="fab fa-fw fa-github"></i>Code</a>
 </td>
 </tr>
 </table>
@@ -126,7 +149,7 @@ Yuelang Xu, Benwang Chen, <b>Zhe Li</b>, Hongwen Zhang, Lizhen Wang, Zerong Zhen
 <a href="https://yuelangx.github.io/gaussianheadavatar/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
 <a href="https://arxiv.org/pdf/2312.03029.pdf"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href="https://www.youtube.com/watch?v=kvrrI3EoM5g"><i class="fas fa-fw fa-video"></i>Video</a> /
-<a href="https://github.com/YuelangX/Gaussian-Head-Avatar"><i class="fab fa-fw fa-github fa-github"></i>Code</a>
+<a href="https://github.com/YuelangX/Gaussian-Head-Avatar"><i class="fab fa-fw fa-github"></i>Code</a>
 </td>
 </tr>
 </table>
@@ -166,7 +189,7 @@ Yuxiao Liu, <b>Zhe Li</b>, Yebin Liu, Haoqian Wang<br>
 <a href="https://lizhe00.github.io/projects/posevocab/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
 <a href="https://arxiv.org/pdf/2304.13006.pdf"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href="https://youtu.be/L-kg74A6yNc"><i class="fas fa-fw fa-video"></i>Video</a> /
-<a href="https://github.com/lizhe00/PoseVocab"><i class="fab fa-fw fa-github fa-github"></i>Code</a>
+<a href="https://github.com/lizhe00/PoseVocab"><i class="fab fa-fw fa-github"></i>Code</a>
 </td>
 </tr>
 </table>
@@ -187,7 +210,7 @@ Yuxiao Liu, <b>Zhe Li</b>, Yebin Liu, Haoqian Wang<br>
 <a href="http://www.liuyebin.com/avatarcap/avatarcap.html"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
 <a href="https://arxiv.org/pdf/2207.02031.pdf"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href="http://www.liuyebin.com/avatarcap/assets/supp_video.mp4"><i class="fas fa-fw fa-video"></i>Video</a> /
-<a href="https://github.com/lizhe00/AvatarCap"><i class="fab fa-fw fa-github fa-github"></i>Code</a>
+<a href="https://github.com/lizhe00/AvatarCap"><i class="fab fa-fw fa-github"></i>Code</a>
 </td>
 </tr>
 </table>
@@ -281,4 +304,4 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 + <b>National Scholarship</b>, Ministry of Education of China, 2021
 
 ## Contact
-E-mail: lizhe_thu[AT]126.com
+<b>E-mail:</b> lizhe_thu[AT]126.com
