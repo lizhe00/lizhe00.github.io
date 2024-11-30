@@ -13,8 +13,8 @@ I join Huawei as a researcher through [the TopMinds Program (华为“天才少�
 Prior to that, I obtained my Ph.D. degree from Department of Automation, Tsinghua University, advised by Prof. [Yebin Liu](http://www.liuyebin.com/).
 My research focuses on **human-centric 3D vision**, including 3D human reconstruction, animation and generation, etc.
 
-<b><font color="deeppink">华为2012实验室-中央媒体院-CGXR工程部 实习生/全职招聘：</font></b><br>
-华为媒体院-CGXR工程部专注于三维视觉相关研究，如果您对我们的研究领域（包括但不限于三维重建、动画、三维/四维生成、可驱动对象生成）感兴趣，欢迎通过微信或邮件联系！<br>
+<b><font color="deeppink">华为2012实验室-中央媒体院-CGXR工程部 实习生/全职/博后招聘：</font></b><br>
+华为媒体院-CG&XR工程部是华为公司的CG与3DV能力中心，如果您对我们的研究领域（包括但不限于三维重建、动画、三维/四维生成、可驱动对象生成）感兴趣，欢迎通过微信或邮件联系！<br>
 Base地: 上海、杭州、北京、深圳等<br>
 <b>WeChat:</b> nexus_unite<br>
 <b>E-mail:</b> lizhe_thu[AT]126.com
