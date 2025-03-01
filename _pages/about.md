@@ -11,41 +11,14 @@ redirect_from:
 Hi, this is Zhe Li. 
 I join Huawei as a researcher through [the TopMinds Program (华为“天才少年”计划)](https://career.huawei.com/reccampportal/portal5/topminds.html) in 2024.
 Prior to that, I obtained my Ph.D. degree from Department of Automation, Tsinghua University, advised by Prof. [Yebin Liu](http://www.liuyebin.com/).
-My research focuses on **human-centric 3D vision**, including 3D human reconstruction, animation and generation, etc.
+My research focuses on **human-centric 3D vision & graphics**, including human reconstruction, animation and generation.
 
-<b><font color="deeppink">华为2012实验室-中央媒体院-CGXR工程部 实习生/全职/博后招聘：</font></b><br>
-华为媒体院-CG&XR工程部是华为公司的CG与3DV能力中心，如果您对我们的研究领域（包括但不限于三维重建、动画、三维/四维生成、可驱动对象生成）感兴趣，欢迎通过微信或邮件联系！<br>
-Base地: 上海、杭州、北京、深圳等<br>
-<b>WeChat:</b> nexus_unite<br>
-<b>E-mail:</b> lizhe_thu[AT]126.com
-
-## Background
-
-<div>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
-<tr>
-<td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
-<img width="80" src="../images/tsinghua.png"/> 
-</td>
-<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
-Ph.D. Sep. 2019 - Jun. 2024<br>
-<a href="http://www.au.tsinghua.edu.cn/">Department of Automation</a><br>
-<a href="https://www.tsinghua.edu.cn/en/index.html">Tsinghua University</a><br>
-</td>
-</tr>
-
-<tr>
-<td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
-<img width="80" src="../images/ustc.png"/> 
-</td>
-<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
-Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
-<a href="https://sgy.ustc.edu.cn/">Class of the Gifted Young (少年班)</a><br>
-<a href="http://en.ustc.edu.cn/">University of Science and Technology of China</a><br>
-</td>
-</tr>
-</table>    
-</div>
+## Recruitment
+<b><font color="deeppink">华为2012实验室-中央媒体院-CG&XR工程部 实习生/全职/博后招聘：</font></b><br>
+CG&XR工程部是华为公司三维视觉与图形学的技术能力中心，为华为终端等业务线提供前沿的AI图形技术。如果您对我们的研究领域（包括但不限于人像视频生成、3D/4D重建与动画、可驱动对象生成）感兴趣，欢迎通过微信或邮件联系！实习生、博士后岗位面向科研，主要负责前沿技术探索，支持发表顶会paper！<br>
+<b>工作地:</b> 上海、杭州、北京、深圳等<br>
+<b>微信:</b> lizhe_thu<br>
+<b>邮箱:</b> lizhe_thu[AT]126.com
 
 
 ## Research
@@ -293,6 +266,34 @@ Yuxiang Zhang, <b>Zhe Li</b>, Liang An, Mengcheng Li, Tao Yu, Yebin Liu<br>
 </td>
 </tr>
 </table>
+</div>
+
+## Background
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
+<img width="80" src="../images/tsinghua.png"/> 
+</td>
+<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
+Ph.D. Sep. 2019 - Jun. 2024<br>
+<a href="http://www.au.tsinghua.edu.cn/">Department of Automation</a><br>
+<a href="https://www.tsinghua.edu.cn/en/index.html">Tsinghua University</a><br>
+</td>
+</tr>
+
+<tr>
+<td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
+<img width="80" src="../images/ustc.png"/> 
+</td>
+<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
+Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
+<a href="https://sgy.ustc.edu.cn/">Class of the Gifted Young (少年班)</a><br>
+<a href="http://en.ustc.edu.cn/">University of Science and Technology of China</a><br>
+</td>
+</tr>
+</table>    
 </div>
 
 ## Awards
