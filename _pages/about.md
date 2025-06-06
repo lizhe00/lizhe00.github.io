@@ -14,14 +14,37 @@ Prior to that, I obtained my Ph.D. degree from Department of Automation, Tsinghu
 My research focuses on **human-centric 3D vision & graphics**, including human reconstruction, animation and generation.
 
 ## Recruitment
-<b><font color="deeppink">华为2012实验室-中央媒体院-CG&XR工程部 实习生/全职/博后招聘：</font></b><br>
-CG&XR工程部是华为公司三维视觉与图形学的技术能力中心，为华为终端等业务线提供前沿的AI图形技术。如果您对我们的研究领域（包括但不限于人像视频生成、3D/4D重建与动画、可驱动对象生成）感兴趣，欢迎通过微信或邮件联系！实习生、博士后岗位面向科研，主要负责前沿技术探索，支持发表顶会paper！<br>
-<b>工作地:</b> 上海、杭州、北京、深圳等<br>
+<b><font color="deeppink">华为2012实验室-中央媒体技术院 实习生/全职员工/博后招聘：</font></b><br>
+部门是华为三维视觉与图形学能力中心，面向手机、PC、XR等公司主航道探索前沿的AI视觉与图形技术。
+团队长期招收AIGC、三维视觉、图形学方向实习生/全职员工/博后，一同创造<b>万物可动（Animate Anything）</b>的数字世界！欢迎联系！<br>
+<b>工作地:</b> 上海、杭州、北京<br>
 <b>微信:</b> lizhe_thu<br>
 <b>邮箱:</b> lizhe_thu[AT]126.com
 
 
 ## Research
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+  <source src="../images/humanram.mp4" type="video/mp4">
+</video>
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>HumanRAM: Feed-forward Human Reconstruction and Animation Model using Transformers</b><br>
+Zhiyuan Yu*, <b>Zhe Li</b>*, Hujun Bao, Can Yang, Xiaowei Zhou (*=equal contribution)<br>
+<i>ACM <b>SIGGRAPH</b> Conference Proceedings, 2025</i><br>
+<a href="https://zju3dv.github.io/humanram/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="https://arxiv.org/pdf/2506.03118"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="https://www.youtube.com/watch?v=aNIqDUA53wM"><i class="fas fa-fw fa-video"></i>Video</a>
+</td>
+</tr>
+</table>
+</div>
+
+---
 
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
