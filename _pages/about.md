@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 Hi, this is Zhe Li. 
-I join Huawei as a researcher through [the TopMinds Program (华为“天才少年”计划)](https://career.huawei.com/reccampportal/portal5/topminds.html) in 2024.
+I am a researcher at Huawei where I am leading a group working on 2D/3D animation (including digital humans, animals, scenes, etc) using AIGC and graphics techniques.
+I joined Huawei through [the TopMinds Program (华为“天才少年”计划)](https://career.huawei.com/reccampportal/portal5/topminds.html) in 2024.
 Prior to that, I obtained my Ph.D. degree from Department of Automation, Tsinghua University, advised by Prof. [Yebin Liu](http://www.liuyebin.com/).
 My research focuses on **human-centric 3D vision & graphics**, including human reconstruction, animation and generation.
 
 ## Recruitment
 <b><font color="deeppink">华为2012实验室-中央媒体技术院 实习生/全职员工/博后招聘：</font></b><br>
-部门是华为三维视觉与图形学能力中心，面向手机、PC、XR等公司主航道探索前沿的AI视觉与图形技术。
-团队长期招收AIGC、三维视觉、图形学方向实习生/全职员工/博后，一同创造<b>万物可动（Animate Anything）</b>的数字世界！欢迎联系！<br>
+团队长期招收AIGC、三维视觉、图形学方向实习生/全职员工/博后，欢迎加入我们一同创造<b>万物可动（Animate Anything）</b>的数字世界！<br>
 <b>工作地:</b> 上海、杭州、北京<br>
 <b>微信:</b> lizhe_thu<br>
 <b>邮箱:</b> lizhe_thu[AT]126.com
