@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 Hi, this is Zhe Li. 
-I am a researcher at Huawei where I am leading a group working on 2D/3D animation (including digital humans, animals, scenes, etc) using AIGC and graphics techniques.
+I am a researcher at Huawei where I am leading a group working on 2D/3D/4D animation and generation (including digital humans, animals, scenes, etc) using AIGC and graphics techniques.
 I joined Huawei through [the TopMinds Program (华为“天才少年”计划)](https://career.huawei.com/reccampportal/portal5/topminds.html) in 2024.
 Prior to that, I obtained my Ph.D. degree from Department of Automation, Tsinghua University, advised by Prof. [Yebin Liu](http://www.liuyebin.com/).
-My research focuses on **human-centric 3D vision & graphics**, including human reconstruction, animation and generation.
+My research focuses on **3D vision & graphics**, including reconstruction, animation and generation.
 
 ## Recruitment
 <b><font color="deeppink">全职员工/实习生/博后 招聘：</font></b><br>
@@ -23,6 +23,28 @@ My research focuses on **human-centric 3D vision & graphics**, including human r
 
 
 ## Research
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+  <source src="../images/dex-portrait.mp4" type="video/mp4">
+</video>
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>DeX-Portrait: Disentangled and Expressive Portrait Animation via Explicit and Latent Motion Representations</b><br>
+Yuxiang Shi*, <b>Zhe Li</b>*, Yanwen Wang, Hao Zhu, Xun Cao, Ligang Liu (*=equal contribution)<br>
+<i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2026</i><br>
+<a href="https://syx132.github.io/DeX-Portrait/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="https://arxiv.org/pdf/2512.15524v1"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="https://www.youtube.com/watch?v=8HjTZe52Wc8"><i class="fas fa-fw fa-video"></i>Video</a>
+</td>
+</tr>
+</table>
+</div>
+
+---
 
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
