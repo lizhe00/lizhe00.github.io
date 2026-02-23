@@ -15,7 +15,7 @@ Prior to that, I obtained my Ph.D. degree from Department of Automation, Tsinghu
 My research focuses on **3D vision & graphics**, including reconstruction, animation and generation.
 
 ## Recruitment
-<b><font color="deeppink">全职员工/实习生/博后 招聘：</font></b><br>
+<b><font color="deeppink">华为2012实验室 全职员工/实习生/博后 招聘：</font></b><br>
 团队长期招收AIGC、三维视觉、图形学方向全职员工/实习生/博后，欢迎加入我们一同创造<b>万物可动（Animate Anything）</b>的数字世界！<br>
 <b>工作地:</b> 上海、杭州、深圳<br>
 <b>微信:</b> lizhe_thu<br>
