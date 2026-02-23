@@ -37,7 +37,7 @@ My research focuses on **3D vision & graphics**, including reconstruction, anima
 Yuxiang Shi*, <b>Zhe Li</b>*, Yanwen Wang, Hao Zhu, Xun Cao, Ligang Liu (*=equal contribution)<br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2026</i><br>
 <a href="https://syx132.github.io/DeX-Portrait/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
-<a href="https://arxiv.org/pdf/2512.15524v1"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="https://arxiv.org/pdf/2512.15524"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href="https://www.youtube.com/watch?v=8HjTZe52Wc8"><i class="fas fa-fw fa-video"></i>Video</a>
 </td>
 </tr>
