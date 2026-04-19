@@ -9,15 +9,15 @@ redirect_from:
 ---
 
 Hi, this is Zhe Li. 
-I am a researcher at Huawei where I am leading a group working on 2D/3D/4D animation and generation (including digital humans, animals, scenes, etc) using AIGC and graphics techniques.
+I am a researcher at Huawei where I am leading a group working on 2D/3D/4D reconstruction, animation and generation using AIGC and graphics techniques.
 I joined Huawei through [the TopMinds Program (华为“天才少年”计划)](https://career.huawei.com/reccampportal/portal5/topminds.html) in 2024.
 Prior to that, I obtained my Ph.D. degree from Department of Automation, Tsinghua University, advised by Prof. [Yebin Liu](http://www.liuyebin.com/).
-My research focuses on **3D vision & graphics**, including reconstruction, animation and generation.
+My research focuses on **3D vision & graphics**, especially for humans, animals, scenes, etc.
 
 ## Recruitment
 <b><font color="deeppink">华为2012实验室 全职员工/实习生/博后 招聘：</font></b><br>
 团队长期招收AIGC、三维视觉、图形学方向全职员工/实习生/博后，欢迎加入我们一同创造<b>万物可动（Animate Anything）</b>的数字世界！<br>
-<b>工作地:</b> 上海、杭州、深圳<br>
+<b>工作地:</b> 上海、杭州<br>
 <b>微信:</b> lizhe_thu<br>
 <b>邮箱:</b> lizhe_thu[AT]126.com
 
@@ -35,7 +35,7 @@ My research focuses on **3D vision & graphics**, including reconstruction, anima
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>DeX-Portrait: Disentangled and Expressive Portrait Animation via Explicit and Latent Motion Representations</b><br>
 Yuxiang Shi*, <b>Zhe Li</b>*, Yanwen Wang, Hao Zhu, Xun Cao, Ligang Liu (*=equal contribution)<br>
-<i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2026</i><br>
+<i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2026</i> <b><font color="#dd0000">(Highlight)</font></b><br>
 <a href="https://syx132.github.io/DeX-Portrait/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
 <a href="https://arxiv.org/pdf/2512.15524"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href="https://www.youtube.com/watch?v=8HjTZe52Wc8"><i class="fas fa-fw fa-video"></i>Video</a>
